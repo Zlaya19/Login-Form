@@ -116,6 +116,6 @@ body {
 .lightContainer {
     border: 4px solid #aaa;
     box-shadow: 0 0 35px #aaa;
-    border-image: linear-gradient(45deg,#ddd, dodgerblue, #ddd, dodgerblue) 1;
+    border-image: linear-gradient(45deg,#eee, #b33000, #eee, #b33000) 1;
     background: #eee;
 }
